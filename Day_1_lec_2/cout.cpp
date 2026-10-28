@@ -13,6 +13,5 @@ int main(){
 cout<<"Vedashri \nSonawane"<<endl;
 cout<<"hello world\nfrom apna clg"<<endl;
 return 0;
-
   
 }
